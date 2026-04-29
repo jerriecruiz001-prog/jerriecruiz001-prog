@@ -1,4 +1,4 @@
-# Jerrie Cruz
+# Jerrie Cruiz
 > Building at the intersection of software, AI, and hardware.
 
 Software developer and tech entrepreneur focused on engineering intelligent systems and smart hardware solutions. I build systems that scale, integrate, and work in the real world.
